@@ -1,6 +1,6 @@
 # Welcome to SovietDex!
 
-The interactive SCPDex bot! Before you begin, please ensure that you agree to the terms of service for both the bot and Discord. By using SCPDex, you accept these terms and acknowledge that you will be fully responsible for any actions that may lead to further trouble.
+The interactive SovietDex bot! Before you begin, please ensure that you agree to the terms of service for both the bot and Discord. By using SovietDex, you accept these terms and acknowledge that you will be fully responsible for any actions that may lead to further trouble.
 
 ## Open source
 
