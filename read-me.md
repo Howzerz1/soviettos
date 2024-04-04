@@ -52,3 +52,4 @@ The code of SovietDex is open source and available at https://github.com/Ballsde
    - Violators of these rules may have their items deleted or be subject to the removal of such items.
 
 
+Failure to comply with these rules may result in a permanent blacklist. Additionally, repeated violations of the bot's rules can lead to both a blacklist and a permanent ban from the server and support server.
